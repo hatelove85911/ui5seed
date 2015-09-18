@@ -1,0 +1,29 @@
+{
+  "name": "ui5seed",
+  "version": "0.0.1",
+  "description": "ui5seed",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hatelove85911/ui5seed.git"
+  },
+  "author": "Jun Shen <redwolf85911@gmail.com> (http://hatelove85911.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatelove85911/ui5seed/issues"
+  },
+  "homepage": "https://github.com/hatelove85911/ui5seed",
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-if": "^1.2.5",
+    "gulp-pretty-data": "^0.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.1",
+    "gulp-ui5-preload": "^1.2.0",
+    "run-sequence": "^1.1.3"
+  }
+}
